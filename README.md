@@ -11,7 +11,7 @@ There are seven categories of APIs:
 * OpenShift
 
 Postman Collection:
-https://www.getpostman.com/collections/bc63c30083ec77b2c3c5
+https://www.getpostman.com/collections/e8af6bd430672b12df09
 
 Common API Endpoint:  
 **cloudpak-provisioner.ibmcloudroks.net:8000**
